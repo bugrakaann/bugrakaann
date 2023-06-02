@@ -1,16 +1,21 @@
-### Hi there 👋
+# 👋 Hi there, I'm [Bugra]!
 
-<!--
-**bugrakaann/bugrakaann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](https://your-banner-image-url)
 
-Here are some ideas to get you started:
+I'm a [Your Role/Job Title] with a passion for [Your Interests]. I love exploring new technologies and building innovative projects that can shape the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- **Languages**: C#, Java
+- **Frameworks/Libraries**: .Net Core, .Net Framework
+- **Tools**: Git
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bu%C4%9Fra-kaan-593965205)
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bugrakaann&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bugrakaann&layout=compact&theme=radical)
+
