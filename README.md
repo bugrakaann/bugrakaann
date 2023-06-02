@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm [Bugra]!
+# 👋 Hi there, I'm Bugra!
 
 ![banner](https://your-banner-image-url)
 
-I'm a [Your Role/Job Title] with a passion for [Your Interests]. I love exploring new technologies and building innovative projects that can shape the future.
+I'm a university student with a passion for software development. I love exploring new technologies and building innovative projects that can shape the future.
 
 ## 🚀 Skills
 
