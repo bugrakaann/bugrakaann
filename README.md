@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **Computer Vision, Machine Learning, Python, C#**
 
-- 📫 How to reach me **[https://bugrakaan.dev](https://bugrakaan.dev)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/bugrakaann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="bugrakaann" height="30" width="40" /></a>
