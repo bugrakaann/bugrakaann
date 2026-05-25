@@ -2,15 +2,10 @@
 
 ### AI Engineer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bugrakaann" alt="bugrakaann" /></a> </p>
 
 - 💬 Ask me about **Computer Vision, Machine Learning, Python, C#**
 
-- 📫 How to reach me **bugrakaan.dev**
-
-- 👨‍💻 All of my projects are available at **[https://bugrakaan.dev](https://bugrakaan.dev)**
-
-- 📄 Know about my experiences **[https://bugrakaan.dev](https://bugrakaan.dev)**
+- 📫 How to reach me **[https://bugrakaan.dev](https://bugrakaan.dev)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
