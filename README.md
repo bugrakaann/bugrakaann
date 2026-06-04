@@ -1,9 +1,8 @@
-# Hi 👋, I'm Bugra Kaan
+<p align="center">
+  <a href="https://github.com/bugrakaann"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I+am+Bugra!;Computer+Vision+%26+ML+Engineer;Optimizing+AI+for+Edge+%26+Embedded+Systems;TensorRT,+Triton+%26+Hailo+Enthusiast;Always+learning+new+things&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=34%22"></a>
+</p>
 
-### AI Engineer
 
-
-- 💬 Ask me about **Computer Vision, Machine Learning, Python, C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
